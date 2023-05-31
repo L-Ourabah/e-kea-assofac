@@ -1,2 +1,2 @@
-# e-kea-assofac
+# e-kea-assofac version portable
 projet e-commerce
